@@ -4,3 +4,4 @@ requests==2.34.2
 drf-spectacular==0.29.0
 gunicorn==26.0.0
 python-dotenv==1.2.2
+mysqlclient>=2.2.0
